@@ -1,0 +1,29 @@
+[
+    {
+        "company_domain": "epoint.com",
+        "technical_tools": [
+            "Zendesk",
+            "SQL",
+            "JavaScript",
+            "HTML",
+            "Java",
+            "Apex"
+        ]
+    },
+    {
+        "company_domain": "point.com",
+        "technical_tools": [
+            "Zendesk",
+            "Test Case Management Tool",
+            "Microsoft Technologies"
+        ]
+    },
+    {
+        "company_domain": "portqii.com",
+        "technical_tools": [
+            "Zendesk",
+            "Eloqua",
+            "Microsoft Technologies"
+        ]
+    }
+]
